@@ -69,3 +69,4 @@ const schema = new mongoose.Schema({
 });
 
 export const Course = mongoose.model("Course", schema);
+//this is main server file
